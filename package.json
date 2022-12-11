@@ -1,11 +1,11 @@
 {
-  "private": true,
-  "name": "minimal-blog",
+  "private": false,
+  "name": "soydevlog",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
   "version": "1.3.14",
-  "author": "LekoArts",
+  "author": "FE_SOY <devsoy1006@gmail.com>",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-minimal-blog",
+  "starter-name": "soydevlog",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
