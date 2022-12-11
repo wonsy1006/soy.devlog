@@ -13,7 +13,7 @@ module.exports = {
     siteTitle: `soydevlog`,
     siteTitleAlt: `soy의 개발 블로그`,
     siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://soydevlog.me`,
+    siteUrl: `https://soydevlog.com`,
     siteDescription: `soy의 개발 블로그입니다.`,
     siteImage: `/soylog.svg`,
     author: `@FE_SOY_`,
@@ -21,7 +21,7 @@ module.exports = {
   trailingSlash: `never`,
   plugins: [
     {
-      resolve: `soydevlog`,
+      resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
         navigation: [
